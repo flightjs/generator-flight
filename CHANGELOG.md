@@ -1,5 +1,7 @@
 === HEAD
 
+=== 0.8.0 (August 20, 2014)
+
 * Upgrade to generate an app using Flight 1.2.x.
 
 === 0.7.3 (May 17, 2014)
